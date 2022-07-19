@@ -1,4 +1,4 @@
- # <font color="red">Repositório do desafio de projeto de Git/Github</font>
+ # <p style="color:blue">Repositório do desafio de projeto de Git/Github</p>
 Primeiro desafio de projeto - Git e Github
 
 ## Links Úteis
